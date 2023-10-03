@@ -6,9 +6,17 @@
 ### <div align="center">Привет👋 Меня зовут Алексей! Я python разработчик 👨‍💻 </div>  
 
 ## Обо мне, мои интересы
+В школе и университете программы писал на Pascal, но сейчас есть
+более современный и удобный язык - Python. Начал с курса Яндекс.Практикум. В процессе
+обучения особенно понравилось писать backend для сайтов, работать с базами данных, а
+также настраивать серверы для размещения веб-проектов. Хочу с помощью освоенных
+инструментов и методик решать сложные и актуальные задачи.
+Умею работать в команде, люблю процесс обучения, не боюсь публичных выступлений с
+презентацией результатов работы, обладаю организаторскими навыками и гибкостью в
+решении разных вопросов.
 
 ## Пройденные курсы
-
+Python-разработчик Яндекс Практикум 2022-2023
 
 ## Мой стек технологий
 <img src="https://img.shields.io/badge/Python-blue?style=for-the-badge&logo=python&logoColor=yellow"/> <img src="https://img.shields.io/badge/Django-blue?style=for-the-badge&logo=django&logoColor=yellow"/> <img src="https://img.shields.io/badge/GitHub-blue?style=for-the-badge&logo=github&logoColor=yellow"/> <img src="https://img.shields.io/badge/SQL-blue?style=for-the-badge&logo=sql&logoColor=yellow"/><img src="https://img.shields.io/badge/PostgreSQL-blue?style=for-the-badge&logo=postgresql&logoColor=yellow"/> <img src="https://img.shields.io/badge/Bash-blue?style=for-the-badge&logo=bash&logoColor=yellow"/> <img src="https://img.shields.io/badge/Nginx-blue?style=for-the-badge&logo=nginx&logoColor=yellow"/> <img src="https://img.shields.io/badge/gunicorn-blue?style=for-the-badge&logo=gunicorn&logoColor=yellow"/> <img src="https://img.shields.io/badge/Docker-blue?style=for-the-badge&logo=docker&logoColor=yellow"/> <img src="https://img.shields.io/badge/Docker Hub-blue?style=for-the-badge&logo=docker hub&logoColor=yellow"/>
