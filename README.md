@@ -3,13 +3,10 @@
 ## Обо мне
 В школе и университете программы писал на Pascal, даже застал немного Turbo Pascal 7.0, и я помню синий экран.
 После вуза я заинтересовался разработкой. Узнал, что есть более современный и удобный язык - Python.
-Изучение основ начал с курса Яндекс.Практикум. В процессе
+В процессе
 обучения особенно понравилось писать backend и разрабатывать API для сайтов, создавать админки и проектировать базы данных, а
 также настраивать серверы для размещения веб-проектов. Хочу с помощью освоенных
 инструментов и методик решать сложные и актуальные задачи. Не готов останавливаться на достигнутом, поскольку люблю процесс обучения, а также получение новых знаний и навыков.
-
-## Пройденные курсы
-Python-разработчик **Яндекс.Практикум** 2023
 
 ## Мой стек технологий
 <img src="https://img.shields.io/badge/Python-blue?style=for-the-badge&logo=python&logoColor=yellow"/> <img src="https://img.shields.io/badge/Django-blue?style=for-the-badge&logo=django&logoColor=yellow"/> <img src="https://img.shields.io/badge/GitHub-blue?style=for-the-badge&logo=github&logoColor=yellow"/> <img src="https://img.shields.io/badge/SQL-blue?style=for-the-badge&logo=sql&logoColor=yellow"/><img src="https://img.shields.io/badge/PostgreSQL-blue?style=for-the-badge&logo=postgresql&logoColor=yellow"/> <img src="https://img.shields.io/badge/Bash-blue?style=for-the-badge&logo=bash&logoColor=yellow"/> <img src="https://img.shields.io/badge/Nginx-blue?style=for-the-badge&logo=nginx&logoColor=yellow"/> <img src="https://img.shields.io/badge/gunicorn-blue?style=for-the-badge&logo=gunicorn&logoColor=yellow"/> <img src="https://img.shields.io/badge/Docker-blue?style=for-the-badge&logo=docker&logoColor=yellow"/> <img src="https://img.shields.io/badge/Docker Hub-blue?style=for-the-badge&logo=docker hub&logoColor=yellow"/>
